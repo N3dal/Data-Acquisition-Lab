@@ -7,4 +7,4 @@ When a voltage is applied to the input resistor, a current flows through the res
 The gain of the inverting amplifier is determined by the ratio of the feedback resistor to the input resistor. A higher value of feedback resistor relative to input resistor results in a higher gain. The inverting amplifier can be used in a variety of applications, such as audio amplifiers, signal conditioning circuits, and voltage regulators.
 
 
-![inverting-amp]("./pics/circuit_diagram_inverting_op_amp.webp")
+![inverting-amp](./pics/circuit_diagram_inverting_op_amp.webp)
