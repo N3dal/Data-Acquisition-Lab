@@ -17,17 +17,17 @@ clc;
 
 
 vin = -20:0.01:20;
-vout1 = arrayfun(@(input_)transfer_function(input_, 1, 11.15), vin);
-vout2 = arrayfun(@(input_)transfer_function(input_, 2, 11.15), vin);
-vout3 = arrayfun(@(input_)transfer_function(input_, 3, 11.15), vin);
+vout1 = arrayfun(@(input_)transfer_function(input_, -1, 11.15), vin);
+vout2 = arrayfun(@(input_)transfer_function(input_, -2, 11.15), vin);
+vout3 = arrayfun(@(input_)transfer_function(input_, -3, 11.15), vin);
 
-
+plot(vin, vout1, vin, vout2, vin, vout3);
 xlabel("Input Voltage (V)");
 ylabel("Output Voltage (V)");
 title("Input and Output Voltages");
-plot(vin, vout1, vin, vout2, vin, vout3);
+
 lgd = legend("Gain=1", "Gain=2", "Gain=3")
-lgd.Location = "northwest";
+lgd.Location = "southwest";
 grid("on");
 % set the axis limits;
 axis([-15, 15, -15, 15])
