@@ -5,7 +5,7 @@ reports including pictures and matlab scripts and simulating files
 and etc.
 
 ## Lab Experiments:
-- [Non-Inverting Op-Amp](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/non_inverting_op_amp)
+Exp 1- [Non-Inverting Op-Amp](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/non_inverting_op_amp)
 - [Inverting Op-Amp](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/inverting_op_amp)
 - [Summing Op-Amp](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/summing_amplifier)
 - [Difference Op-Amp](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/difference_amplifier)
