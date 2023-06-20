@@ -8,6 +8,6 @@ and etc.
 - [Non-Inverting Op-Amp (Exp-01)](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/non_inverting_op_amp)
 - [Inverting Op-Amp (Exp-02)](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/inverting_op_amp)
 - [Summing Op-Amp (Exp-03)](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/summing_amplifier)
-- [Difference Op-Amp (Exp-04)](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/difference_amplifier)
+- [Subtractor Op-Amp (Exp-04)](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/subtractor_amplifier)
 - [Integrator Op-Amp (Exp-05)](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/intgrator_amplifier)
 - [Differentiator Op-Amp (Exp-05)](https://github.com/N3dal/Data-Acquisition-Lab/tree/main/differentiator_amplifier)
