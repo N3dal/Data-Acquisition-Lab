@@ -11,3 +11,6 @@ A summing amplifier, also known as an adder, is a type of operational amplifier 
 5. Limitations: The summing amplifier has a limited dynamic range and can only handle input signals within a certain range. It is also prone to noise and distortion, which can affect the accuracy of the output signal.
 
 6. Improvements: To improve the performance of the summing amplifier, techniques such as using higher precision resistors, adding filtering circuits to reduce noise, and using op amps with lower noise and distortion can be employed.
+
+
+![summing-amp](https://github.com/N3dal/Data-Acquisition-Lab/blob/main/summing_amplifier/pics/diagram.webp)
